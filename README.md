@@ -4,3 +4,6 @@ This tutorial shows you how to use custom elements in an Angular project. It cov
 
 Tutorial : https://vaadin.com/tutorials/using-web-components-in-angular
 Video: https://youtu.be/Wd2Ja2q7AAA
+
+
+This project is a version upgrade of https://github.com/vaadin-learning-center/using-web-components-in-angular
